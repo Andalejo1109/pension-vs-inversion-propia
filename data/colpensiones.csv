@@ -1,0 +1,5 @@
+sexo,inicio,anios,cumple,semanas,req,edad,tasa_r,pension_SMLMV,indemn_SMLMV
+Mujer,30,20,True,1040,1000,57,64.61,1.153,0.0
+Mujer,25,25,True,1300,1000,57,73.61,1.314,0.0
+Hombre,30,20,False,1040,1300,62,,0.0,76.8
+Hombre,25,25,True,1300,1300,62,64.65,1.098,0.0
